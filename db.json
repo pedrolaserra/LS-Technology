@@ -1,18 +1,25 @@
 {
   "videos": [
+
     {
       "id": 1,
       "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
       "descricao": "3 mil visualizações",
       "url": "https://www.youtube.com/embed/y8FeZMv37WU",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
+
     {
       "id": 2,
       "titulo": "Desmistificando mobile - Linguagens e Frameworks",
       "descricao": "1,5 mil visualizações",
       "url": "https://www.youtube.com/embed/fmu1LQvZhms",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      },
+
+    {
+      "id": 3,
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
     },
 
     {
@@ -20,7 +27,6 @@
       "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
       "descricao": "2,5 mil visualizações",
       "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
 
     {
@@ -28,63 +34,49 @@
       "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
       "descricao": "1,6 mil visualizações",
       "url": "https://www.youtube.com/embed/vf9P_PycgRw",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
+
     {
       "id": 7,
       "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
       "descricao": "3,2 mil visualizações",
       "url": "https://www.youtube.com/embed/Nts3P35mHzE",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
+
     {
       "id": 8,
       "titulo": "baNaNa | Memes do JavaScript #2",
       "descricao": "1,2 mil visualizações",
       "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
+
+    {
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "id": 9
+    },
+
     {
       "titulo": "Como posso estudar melhor? #HipstersPontoTube",
       "descricao": "3 mil visualizações",
       "url": "https://www.youtube.com/embed/Is6c9KSGCbk",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 12
     },
+
     {
       "titulo": "O que é Biblioteca, Framework e API? #HipstersPontoTube",
       "descricao": "3 mil visualizações",
       "url": "https://www.youtube.com/embed/F0H4HPXdZog",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 13
     },
+
     {
       "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
       "descricao": "4 mil visualizações",
       "url": "https://www.youtube.com/embed/ZY3-MFxVdEw",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 14
-    },
-    {
-      "titulo": "RESULTADO: Pesquisa Salarial de Programadores 2022",
-      "descricao": "3 mil visualizações",
-      "url": "https://www.youtube.com/embed/Fdw15cZ0j5E",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "id": 15
-    },
-    {
-      "titulo": "Mapa completo para tua carreira na Tecnologia",
-      "descricao": "1 mil visualizações",
-      "url": "https://www.youtube.com/embed/1lTw-hNbJhw",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "id": 16
-    },
-    {
-      "titulo": "O que é Javascript? Por que devemos saber hoje? O que ele faz?",
-      "descricao": "8 mil visualizações",
-      "url": "https://www.youtube.com/embed/QnLSBuykGxI",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-      "id": 17
     }
+
   ]
 }
